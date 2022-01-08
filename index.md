@@ -44,7 +44,7 @@ Persevering, demanding, responsible, intelligent, erudite, perfectionist, punctu
 # Related Work Experience
 January 2018 - present: Content Manager, Social Media Manager &amp; Prices Supervisor at an internet store in Moldova, with attributions of webmaster, graphic designer and video editor, prices optimization, email marketing. Implemented promotional campaigns, prepared promotional materials (leaflets, booklets, banners, etc.), worked with databases, conducted researches on local market for the operating products, compiled statistical comparison for given products. Located and proposed new potential business deals (B2B), proposed new business ideas.
 
-Developed the internet store from zero to 12000+ products (by 6000+ x 2 languages), with over 25000 images, with specific Wordpress-WooCommerce taxonomy, and specifications in HTML. Intelligently combined the done work by automating processes, also with mass SQL manipulations and manual work.
+Developed the internet store from zero to 15000+ products (by 7500+ x 2 languages), with over 27000 images, with specific Wordpress-WooCommerce taxonomy, and specifications in HTML. Intelligently combined the done work by automating processes, also with mass SQL manipulations and manual work.
 
 Previously - Cca. 5 years of continuous intensive volunteering for Wikimedia projects (Wikipedia, Wikidata, Commons) as author, editor, translator, technical geek, bot operator, and counter-vandalism team member.
 
