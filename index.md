@@ -63,7 +63,7 @@ Previously - Cca. 5 years of continuous intensive volunteering for Wikimedia pro
 IT, sciences (from physics and astronomy to genetic medicine and bioinformatics), technologies, philosophy, sports &amp; health, culture and arts (especially cinematography and music), history, geography, politics &amp; geopolitics, evolution, futurology, psychology and other.
 
 <style>
-  .footer {
+  .site-footer {
     display: none;
   }
 </style>
