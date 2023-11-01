@@ -2,12 +2,10 @@ Curriculum vitae
 ================
 
 ## Date personale
-Nume: Daniel Ignat   
+Nume: Dan I
 Vârsta: 30 de ani   
 Naționalitate: Republica Moldova   
-Adresa: Chișinău, Anenii Noi, Republica Moldova   
-Telefon: (+373)78270723   
-Email: dan.ignat.work@gmail.com
+Adresa: Chișinău, Anenii Noi, Republica Moldova  
 
 ## Studii și formare
 - Bacalaureat;
