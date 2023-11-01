@@ -1,63 +1,62 @@
-Dan I.
+Dan Ignat
 ================
 *30 y.o. Based in Chișinău, Moldova*
 
-# Key details
+# Date personale
+Nume: Daniel Ignat
+Vârsta: 30 de ani
+Naționalitate: Republica Moldova 
+Adresa: Chișinău, Anenii Noi, Republica Moldova
+Telefon: (+373)78270723
+Email: dan.ignat.work@gmail.com
 
-IT specialist &amp; enthusiast.  
-Quick learner of new softwares and techniques. Multitasker.  
-- Author of several Python bots doing tens of millions of operations on several different platforms for different purposes.
-- I am an active bug reporter for many softwares and services used. I also frequently give technical-related feedback and suggestions for improvement for the most used Internet services by me. Among them, having recently reported bugs and/or technical suggestions to Viber, Facebook, YouTube, Instagram, Telegram, Mozilla Firefox, Opera Browser and Wikimedia projects (Wikipedia, Wikidata, Commons), Moldcell, Orange.md, 999.md, rabota.md, belot.md, and other.
+# Studii și formare
+• Bacalaureat;
+• Colegiul de Informatică din Chișinău;
+• Multiplu participant la Olimpiadele locale, regionale și naționale de Fizică din Moldova
+
+# Cunoștințe lingvistice
+• Română — Excelent, limbă maternă
+• Rusă — Fluent
+• Engleză — Mediu
+• Franceză — Începător spre mediu (în trecut fluent)
+
+# Profil și caracteristici
+Specialist & entuziast IT. Personalitate multilateral dezvoltată, cu o bună cultură generală și cunoștințe vaste în diverse domenii (atât teoretic, cât și practic). Competitor de jocuri intelectuale, brainstormer, generator de idei. Multitasker, capabil de a lucra complet independent. 
+Inteligent, punctual, responsabil, energic, exigent, perseverent, perfecționist, pragmatic, orientat spre rezultat, performanță și găsirea de soluții. Onest, calm și cu răbdare, dar dinamic, atent, predispus spre învățare continuă de noi lucruri și acumularea de noi cunoștințe. Fără vicii, stabil psihico-emoțional, cu un bun auto-control în diverse situații neordinare și critice. 
+Abilități diplomatice, introspecție, aptitudini analitice, observaționale, predictive, de prognozare și anticipare, gândire analitică, paralelă, focusată, de înalt nivel. Corectitutine politică. Bună înțelegere a relațiilor de cauzalitate.
 
 
-### IT skills &amp; Software knowledge
+### Aptitudini IT &amp; cunoștințe software
+•  Autor a câțiva roboți Python, cu efectuarea a milioane de operații pe câteva platforme diferite, cu scopuri diferite.
+•  Limbaje de programare și unelte conexe: Python (+biblioteci, Selenium, AutoIt) - junior, Javascript (+jQuery), HTML, CSS, SQL, bazele, Regex, WebDriver, Selenium IDE, FTP, XAMPP, Wordpress (+WooCommerce, plugin-uri), Joomla, TBDev, Mediawiki, Markdown, WYSIWYG. În trecut: Delphi, Pascal. 
+•  Experiență în scripting, coding, automatizare, personalizarea serviciilor web utilizate prin userscript-uri și userstyle-uri personale, pentru o mai bună productivitate și confort
+•  Experiență în dezvoltarea și operarea roboților în Tor
+•  Experiență în web crawling, scraping și parsing
+•  Experiență în traducere și localizare de software (Mediawiki/Wikimedia, playere multimedia, framework-uri, editoare text, etc.)
+•  Experiență în setarea și gestionarea completă a sistemelor CMS (Content Management Systems), software de forum
+•  Abilități de scriere a documentației tehnice, de software și generale
+•  Microsoft Office
+•  Suita Adobe (Photoshop, Dreamweaver, Acrobat, etc.)
+•  CorelDRAW
+•  Editoare de imagini (standalone, online)
+•  Editoare video (AVS, Movavi, Xilisoft), convertoare video
+•  Editoare audio (Audacity), convertoare audio
+•  Emulatoare (BlueStacks, MeMU) 
+•  Experiență în depănarea problemelor PC/SO; mentenanță și optimizare PC/SO. Depănare probleme, mentenanță și optimizare smartphone/tabletă. Migrare SO și/sau profiluri de utilizator.
+•  Experiență în gestionarea totală și  mentenanță de site web (de la cabinetul de administrare până la partea server și cod sursă)
+•  Experiență în suport utilizator la distanță (PC - PC, PC - smartphone, smartphone - smartphone), prin TeamViewer
+•  Utilizator avansat Windows, cross-browser. 
+•  Alte zeci/sute de programe software și diverse tehnici comune sau specifice cunoscute, folosite. 
+•  Contribuții voluntare la proiecte open source, colaborative, cum ar fi Wikipedia, OpenStreetMap, Google Maps, unele proiecte Github. 
 
-- Python (+libraries, including bindings for Selenium, AutoIt) - junior, Javascript (+jQuery), HTML, CSS, SQL, PHP basics (originally introduced in), Regex, WebDriver, Selenium IDE, FTP, XAMPP, Wordpress (+WooCommerce, plugins), Joomla, TBDev, Mediawiki, Markdown, WYSIWYG. In past: Delphi, Pascal.
-- Experience in scripting, coding, automating, personalization of the most used websites using personal userscripts and userstyles, for better productivity and own comfort
-- Experience in developing and running bots in Tor
-- Experience in web crawling, scraping and parsing
-- Experience in software translation and localization (Mediawiki/Wikimedia, multimedia players, frameworks, text editors, etc.)
-- Experience in setting up and managing Content Management Systems and forum software
-- Abilities writing software and general documentation
-- Microsoft Office suite
-- Adobe suite (Photoshop, Dreamweaver, Acrobat, etc.)
-- CorelDRAW
-- Image editors (standalone, online)
-- Video editors (AVS, Movavi, Xilisoft), converters
-- Audio editors (Audacity), converters
-- Emulators (BlueStacks, MeMU)
-- Experience in troubleshooting PC/OS issues; PC/OS maintenance and optimization; smartphone troubleshooting, maintenance and optimization; user profiles and OS migration
-- Experience in full website management and maintenance (from admin cabinet to server-side and source code issues)
-- Experience of remote user support (PC to PC, PC to smartphone, smartphone to smartphone), via TeamViewer
-- Experience in smartphone OS debloating (via PC)
-- Windows power user, cross-browser power user.
-- Other tens/hundreds of various common and more specific softwares known/worked with.
-- Volunteer contributions to open source projects, software and also other collaborative projects, like Wikipedia, OpenStreetMap, Google Maps, some Github projects.
+# Experiență de lucru corelată
+2018 - prezent: Content Manager, Social Media Manager & supervizor de prețuri la un magazin online din Moldova, cu  atribuții suplimentare de webmaster, designer/editor grafic & video, formare și optimizare prețuri, email marketing. Am implementat campanii promoționale, cu pregătirea materialelor promoționale (leaflet, booklet, banner, etc.). Lucru cu bazele de date. Am efectuat studiul pieții locale pe segmentul produselor din operare, am compilat statistici comparatorii pe segmente de produse. Localizat și propus potențiale noi oferte & acorduri business (B2B), propus noi idei de business.
+Dezvoltat magazinul online de la zero la 15000+ produse (câte 7500+ în 2 limbi), cu peste 25000 de imagini, taxonomie specifică Wordpress-WooCommerce și specificații HTML. Lucru combinat inteligent - manual + automatizare (procese programate) și traduceri și manipulări în masă direct în baza de date SQL.
 
-# Profile
-Multilaterally developed personality, with a good general culture and extensive knowledge in various fields (both theoretical and practical), with diplomatic abilities. Competitor of intellectual games, brainstormer, idea generator.
+## Alte experiențe conexe, utile
+•  Cca. 5 ani de voluntariat continuu intensiv pentru proiectele Wikimedia (Wikipedia, Wikidata, Commons, etc.) ca autor, editor, traducător, tech geek, operator de roboți și membru al echipei anti-vandalism. 
+•  Raportor activ de bug-uri pentru multiple software-uri, servicii folosite, și de asemenea, ofer frecvent feedback și sugestii tehnice pentru ameliorarea și perfecționarea celor mai des utilizate servicii IT de către mine. Printre acestea, recent am raportat bug-uri și am oferit feedback/sugestii tehnice către Viber, Facebook, YouTube, Instagram, Telegram, Mozilla Firefox, Opera Browser, proiectele Wikimedia (Wikipedia, Wikidata, Commons), Moldcell, Orange.md, 999.md, rabota.md, ș.a. 
 
-High analytical and observational skills, ability to work independently, good prediction/forecasts skills. Introspection, analytical thinking, parallel thinking, high-level thinking, focused thinking, good understanding of causal relationships.
-
-Persevering, demanding, responsible, intelligent, erudite, perfectionist, punctual, pragmatic, solution finder, multitasker, result-orientated and performance-orientated, &quot;politically correct&quot;, honest, calm and patient but quite dynamic, diligent, prone to continuous learning of new things and the acquire of new knowledge. Having no vices, I am stable psycho-emotionally, with good self-control in various unusual and even critical situations.
-
-# Related Work Experience
-January 2018 - present: Content Manager, Social Media Manager &amp; Prices Supervisor at an internet store in Moldova, with attributions of webmaster, graphic designer and video editor, prices optimization, email marketing. Implemented promotional campaigns, prepared promotional materials (leaflets, booklets, banners, etc.), worked with databases, conducted researches on local market for the operating products, compiled statistical comparison for given products. Located and proposed new potential business deals (B2B), proposed new business ideas.
-
-Developed Internet store from zero to 15000+ products (by 7500+ x 2 languages), with over 27000 images, with specific Wordpress-WooCommerce taxonomy, and specifications in HTML. Intelligently combined the done work by automating processes, also with mass SQL manipulations and manual work.
-
-Previously - Cca. 5 years of continuous intensive volunteering for Wikimedia projects (Wikipedia, Wikidata, Commons) as author, editor, translator, technical geek, bot operator, and counter-vandalism team member.
-
-# Formation
-- Bachelor degree;
-- College of Informatics of Chișinău;
-- Multiple times competitor of local, regional and national Physics Olympiad in Moldova
-
-# Language skills
-- Romanian — Native
-- Russian — Fluent
-- English — Intermediate
-- French — Beginner to intermediate (fluent in past)
-
-# Hobbies &amp; Interests
-IT, sciences (from physics and astronomy to genetic medicine and bioinformatics), technologies, philosophy, sports &amp; health, culture and arts (especially cinematography and music), history, geography, politics &amp; geopolitics, evolution, futurology, psychology and other.
+# Hobby-uri &amp; interese
+IT, știință (de la fizică și astronomie la medicina genetică și bioinformatică), tehnică și tehnologii, filosofie, sport și sănătate, cultură și arte (în special cinematografie și muzică), istorie, geografie, politică și geopolitică, evoluție, futurologie, psihologie și altele.
