@@ -1,8 +1,8 @@
-Curriculum vitae 
+<p align="center">Curriculum vitae</p>
 ================
 
 ## Date personale
-Nume: Dan I
+Nume: Dan I   
 Vârsta: 30 de ani   
 Naționalitate: Republica Moldova   
 Adresa: Chișinău, Anenii Noi, Republica Moldova  
