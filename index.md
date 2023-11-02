@@ -1,5 +1,5 @@
-<p align="center"><h1>Curriculum vitae</h1></p>
-<hr><hr>
+<h1 align="center"><i>Curriculum vitae</i></h1>
+<hr style="height:5px;border-width:0;color:gray;background-color:lightgray">
 
 ## Date personale
 Nume: Dan I   
