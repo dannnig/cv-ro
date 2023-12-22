@@ -2,8 +2,8 @@
 <hr style="height:5px;border-width:0;color:gray;background-color:lightgray">
 
 ## Date personale
-Nume: Dan I   
-Vârsta: 30 de ani   
+Nume: Dan Ignat   
+Vârsta: 32 de ani   
 Naționalitate: Republica Moldova   
 Adresa: Chișinău / Merenii Noi (AN), Republica Moldova   
 Telefon: (+373)78270723   
